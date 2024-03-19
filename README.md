@@ -1,2 +1,3 @@
 # Machine-Learning
-Linear Algebra Example and Pytorch learnings in machine learning code
+
+Basic to advance Machine Learning and Deep Learning.
